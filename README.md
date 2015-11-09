@@ -9,7 +9,7 @@ Move onto the next one, while you wait for help...
 Ask the user for 5 numbers and show the sum at the end
 
 ## Problem 2
-Ask the user for a word, then display if the length of the work is even or odd
+Ask the user for a word, then display if the length of the word is even or odd
 
 ## Problem 3
 Ask the user for 5 numbers
@@ -29,7 +29,7 @@ Enter a number: 3
 ```
 
 ## Problem 6
-Tell the user to enter a specific work and then tell the user if they entered it correctly or not.
+Tell the user to enter a specific word and then tell the user if they entered it correctly or not.
 The word can be the same, each time 
 
 E.g.
@@ -57,9 +57,9 @@ Random number chosen by the computer was: 7
 Ask the user to choose a number 0,1 or 2.   
 Make the computer choose a random number or 0,1 or 2.
 
-Tell the user if they guessed correctly
+Tell the user if they guessed the computers choice
 
-## Problem 9
+## Problem 9 - (this one is evil)
 Ask the user for 2 words, then display the words, ordered by length   
 E.g. display the shortest one then the longest one
 
