@@ -18,7 +18,7 @@ After they have entered the numbers, show the smallest and largest numbers enter
 
 ## Problem 4
 Ask the user to enter a number   
-Display that amount of start e.g.
+Display that amount of stars e.g.
 
 ```
 Enter a number: 3   
@@ -36,8 +36,10 @@ You entered the word incorrectly
 ```
 
 Once this is working make it ignore case e.g.   
+```
 Enter 'Mississippi': mississippi   
 You entered the word correctly   
+```
 
 ## Problem h
 Ask the user to choose a number 0,1 or 2.   
