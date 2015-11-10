@@ -4,6 +4,7 @@ If you can't figure out how to solve a problem, ask on Slack.
 
 Move onto the next one, while you wait for help...
 
+Note: assume the user is will only enter positive numbers
 
 ## Problem 1
 Ask the user for 5 numbers and show the sum at the end
